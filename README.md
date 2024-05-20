@@ -10,6 +10,6 @@ Hello 👋, My Name Is Ananda. I'am From Indonesia.
 
 [![Language](https://skillicons.dev/icons?i=js,html,css,ts,cpp,py,php,java,ruby)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vsc,androidstudio,figma)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,figma)](https://skillicons.dev)
 
 [![Ananda WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AnandaCahya)](https://github.com/AnandaCahya)
