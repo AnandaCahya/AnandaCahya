@@ -24,18 +24,18 @@ Another Profile
 
 #### Kanaka Nakazawa
 
-[<img align="left" src="https://avatars.githubusercontent.com/KanakaNakazawa" width=75 />](https:github.com/KanakaNakazawa) I focus on developing libraries & tools
+[<img align="left" src="https://avatars.githubusercontent.com/KanakaNakazawa" width=75 />](https://github.com/KanakaNakazawa) I focus on developing libraries & tools
 
 ------
 
 #### Nekiro Kankou
 
-[<img align="left" src="https://avatars.githubusercontent.com/NekiroKankou" width=75 />](https:github.com/NekiroKankou) I focus to develop auto respond bot and artificial intelegent & make mobile and dekstop application
+[<img align="left" src="https://avatars.githubusercontent.com/NekiroKankou" width=75 />](https://github.com/NekiroKankou) I focus to develop auto respond bot and artificial intelegent & make mobile and dekstop application
 
 --------
 
 #### Nanda Nakazawa
 
-[<img align="left" src="https://avatars.githubusercontent.com/NandaNakazawa" width=75 />](https:github.com/NandaNakazawa) I focus on fullstack web and web design
+[<img align="left" src="https://avatars.githubusercontent.com/NandaNakazawa" width=75 />](https://github.com/NandaNakazawa) I focus on fullstack web and web design
 
 -------
