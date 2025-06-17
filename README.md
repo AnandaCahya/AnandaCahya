@@ -14,6 +14,8 @@
   💬 Love building apps, bots, and cool tools <br>
 </p>
 
+<p align="center"><img src="https://count.getloli.com/@AnandaCahya?name=AnandaCahya&theme=miku&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto"></p>
+
 ---
 
 ## 🧠 Tech Stack & Tools
