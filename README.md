@@ -53,14 +53,6 @@
 
 ---
 
-## ⏱️ Coding Activity
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=AnandaCahya&theme=tokyonight&layout=compact" alt="WakaTime Stats" />
-</p>
-
----
-
 ## 👥 Alternate Profiles
 
 ### 🔹 [Kanaka Nakazawa](https://github.com/KanakaNakazawa)
