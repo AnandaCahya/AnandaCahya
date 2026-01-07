@@ -17,12 +17,6 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AnandaCahya&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AnandaCahya&layout=compact&theme=radical" alt="Top Languages" />
-  <img src="https://streak-stats.demolab.com?user=AnandaCahya&theme=radical" alt="GitHub Streak" />
-</p>
-
-<p align="center">
   <img src="https://count.getloli.com/@AnandaCahya?name=AnandaCahya&theme=miku&padding=7&offset=0&align=top&scale=0.5&pixelated=1&darkmode=auto" alt="Profile Views Counter" />
 </p>
 
